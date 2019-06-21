@@ -1,6 +1,21 @@
 # flutterdatabase
+These application is a good example of database in flutter using flutter sqflite plugin for creating database in flutter.having model class,databasehelper class and main class consist of card view in Listview.builder widget.Simple application for those who want to learn how to integrate flutter with database.
 
-A new Flutter project.
+## contains
+ * model > user.dart
+ * utils > databasehelper.dart
+ * main.dart
+
+
+## Required plugins
+* sqflite: any
+* path_provider: ^1.1.0
+  
+## Resources
+1. Sqflite github repository and documentation: https://github.com/tekartik/sqflite
+
+2. Path provider dependency/plugin: https://pub.dartlang.org/packages/path_provider
+
 
 ## Getting Started
 
